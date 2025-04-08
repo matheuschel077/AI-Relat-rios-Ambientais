@@ -1,0 +1,58 @@
+Relatorio de Residuos Solidos Global
+
+Quantidade de residuos aproximadamente: 100 TON
+Custo de Remocao aproximado:       	R$20.000.000,00
+Maior Indice de Poluicao:       	Arabia Saudita, EUA e Russia
+Menores Indices de Poluicao: 		Africa do Sul e Australia
+Setor de maior poluicao: 		Industrial
+Setor de Menor Poluicao: 		Ambiental
+
+	--------------------------------------	
+	| Tipo de Material | Total em TON    |
+	|------------------|-----------------|
+	| Madeira          | 15              |
+	|------------------|-----------------|
+	| Plastico         | 25              |
+	|------------------|-----------------|
+	| Metais           | 30              |
+	|------------------|-----------------|
+	| Vidro            | 10              |
+	|------------------|-----------------|
+	| Papel            | 5               |
+	|------------------|-----------------|
+	| Outros           | 15              |
+	|------------------|-----------------|
+	| Total		   | 100             |
+	--------------------------------------
+
+        ----------------------------------------------------
+	|Regiao            | Paises          | Total em TON|
+	|------------------|-----------------|------------ |
+	| Americas         | EUA, Canada     | 25          |
+	|------------------|-----------------|-------------|
+	| Europa           | Russia          | 28          |
+	|------------------|-----------------|-------------|
+	| Asia             | Arabia Saudita  | 30          |
+	|------------------|-----------------|-------------|
+	| Africa           | Africa do Sul   | 7           |
+	|------------------|-----------------|-------------|
+	| Oceania          | Australia       | 10          |
+	|------------------|-----------------|-------------|
+	| Total                              | 100         |
+	----------------------------------------------------
+
+        -------------------------------------------------------------
+	|Empresa Poluente  | Tipo de Residuo | Tratamento possivel  |
+	|------------------|-----------------|----------------------|
+	| Saudi Aramco     | Metal e Plastico| Reciclagem e descarte|
+	|------------------|-----------------|-------------         |
+	| Chevron          | Metal e Plastico| Reciclagem e descarte|
+	|------------------|-----------------|----------------------|
+	| Gasprom          | Outros          | Descarte             | 
+	|------------------|-----------------|----------------------|
+	| Royal Dutch Shell| Vidro e Matal   | Reciclagem e descarte|
+	|------------------|-----------------|----------------------|
+	| Ciel Textile     | Papel e Outros  | Reciclagem           |
+	|------------------|-----------------|----------------------|
+	| Caltex           | Plastico e Papel| Reciclagem           |
+	-------------------------------------------------------------

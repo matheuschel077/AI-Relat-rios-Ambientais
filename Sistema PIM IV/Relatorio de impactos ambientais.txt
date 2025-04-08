@@ -1,0 +1,36 @@
+Relatorio de Impactos Ambientais por Regiao
+
+Regiao: Sudeste
+Danos Causados: Poluicao de aguas, morte de animais aquaticos e contaminação do lençol freatico.
+Área Impactada: Região Metropolitana de São Paulo.
+Possíveis Soluções: Limpeza e recolhimento dos residuos que foram jogados nas águas e no solo.
+Nível de Risco: Nivel 1(Alta)
+
+Regiao: Nordeste
+Danos Causados: Incendio criminoso de vegetacao nativa do ecossistema da Caatinga
+Área Impactada: Região da Caatinga.
+Possíveis Soluções: Contenção do incêndio, cuidado veterinário aos animais feridos, análise dos 
+impactos ao solo afetado e replantio da vegetação devastada.
+Nível de Risco: Nivel 2(Média)
+
+Regiao: Norte
+Danos Causados: Despejo de residuos tóxicos por garimpeiros ilegais e contaminação de foz do Rio
+Amazonas.
+Área Impactada: Amazonas, Floresta Amazonica.
+Possíveis Soluções: Remoção dos resíduos tóxicos, limpeza das águas e do solo.
+Nível de Risco: Nivel 1(Alta)
+
+Regiao: Sul
+Danos Causados: Desmatamento nos biomas Mata Atlântica e Pampas.
+Área Impactada: Mata Atlantica(Parte do RS, SC e PN) e Pampas(RS).
+Possíveis Soluções: Análise da fertilidade do solo, replantio correto da vegetação desmatada e
+aumento da fiscalização, do policiamento e do controle nas regiões desmatadas.
+Nível de Risco: Nivel 2(Média)
+
+Regiao: Centro Oeste
+Danos Causados: Remoção de vegetacao nativa para expansao da agropecuaria, sendo contaminadas aguas
+e solo pelo uso excessivo de agrotoxicos.
+Área Impactada: Pantanal, Mato Grosso.
+Possíveis Soluções: Aumento de fiscalização e proteção a essa área, políticas públicas e multas contra
+uso de agrotóxicos e remoção da vegetação.
+Nível de Risco: Nivel 1(Alta)

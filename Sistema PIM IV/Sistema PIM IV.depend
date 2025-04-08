@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700785766 source:c:\users\matheus\documents\análise e desenvolvimento de sistemas\3 semestre\6. pim iii e iv\pim iv\sistema pim iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+

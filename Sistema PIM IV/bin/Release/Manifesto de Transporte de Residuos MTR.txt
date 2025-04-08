@@ -1,0 +1,90 @@
+Manifesto de Transporte de Residuos (MTR)
+
+Identificacao do Gerador
+
+Razao Social: ShopTech IT
+CPF/CNPJ: 27.089.269/0001-77
+Endereco: Rua das Olarias, 560, Centro -Taboao da Serra - SP
+Telefone: (11)4138-2833 / (11)99667-8757
+Municipio:Taboao da Serra
+UF: SP
+
+Nome do Responsavel pela Emissao: Jose Pereira de Braganca
+Cargo: Tecnico de Meio Ambiente
+Data da emissao: 07/09/2023
+
+Identificacao do Transportador
+
+Razao Social:Code7
+CPF/CNPJ:33.763.736/0001-33
+Endereco: Rua Presidente Rufus, 767 - Pouso Alegre - MG
+Telefone: (31)4328-2607 / (31)99677-7967
+Município: Pouso Alegre
+UF: MG
+Nome do Motorista: Tifa Lockhart
+Placa do Veiculo: QRM7E37
+Data da Transporte: 17/09/2023
+
+Identificacao do Destinador
+
+Razao Social:Ecotech
+CPF/CNPJ:26.695.377/0001-65
+Endereco: Rua Chacara da Paz, 995 - Sao Paulo - SP
+Telefone: (11)4749-6799 / (11)94567-7763
+Municipio: São Paulo
+UF: SP
+
+Identificacao dos Residuos
+
+Item:1
+Codigo IBAMA e Denominacao:170302(*)Carcaca de computador, placas logicas (incluindo placas de rede, 
+de video e placa mae quebradas), fones, mouses e teclados com elementos eletricos e de media taxa de 
+radiacao.
+Estado Fisico: SOLIDO
+Classe: CLASSE I
+Acondicionamento:CACAMBA FECHADA
+Qtde: 1 TON
+Unidade: TON
+Tratamento: Blindagem para Coprocessamento.
+
+Observacao do Recebimento dos Residuos
+
+Residuo: 200107 
+Justificativa: MATERIAL NAO COLETADO E DE RISCO A SAÚDE.
+Observacoes Gerais do Destinador: O material tecnologico a ser coletado possui médios indices de ra-
+diacao, causando possiveis riscos a saúde se for tocado ou sem manuseio adequado.
+
+Item:2
+Codigo IBAMA e Denominacao:200509(*)- Metais como cobre, ferro e aluminio, acplados a placas de metal
+sólido, com certos metais danificados e com risco de cortes se mal manuseado.
+Estado Fisico: SOLIDO
+Classe: CLASSE I
+Acondicionamento:CACAMBA ABERTA
+Qtde: 1,5 TON
+Unidade: KG
+Tratamento: Direcionado a reciclagem e descarte de objetos cortantes.
+
+Observacao do Recebimento dos Residuos
+
+Residuo: 200215
+Justificativa: MATERIAL NAO COLETADO
+Observacoes Gerais do Destinador: O material a ser coletado pode ser cortante e causar acidentes por 
+conta de seu peso e a quantidade.
+
+Item:3
+Codigo IBAMA e Denominação:330712(*) - litros de fluidos de Bateria de automóveis acidentalmente tom-
+bados e deixdos na rodovia.
+Estado Fisico: SOLIDO
+Classe: CLASSE I
+Acondicionamento:CACAMBA FECHADA
+Qtde:
+Unidade: TON
+Tratamento: Blendagem para Coprocessamento
+
+Observacao do Recebimento dos Residuos
+
+Residuo: 200308 
+Justificativa: MATERIAL NAO COLETADO
+Observacoes Gerais do Destinador: Os fluidos possuem alto grau de radiação e intoxicação caso mau manuseado 
+ou se entrar em contato com a pele ou mesmo se inalado o gás ao superaquecer por conta do sol.
+
